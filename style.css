@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+div input{
+    width: 200px;
+    
+}
+div textarea{
+    height: 20em;
+    width: 500px;
+}
